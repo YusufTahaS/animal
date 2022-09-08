@@ -1,2 +1,1 @@
-# animal
-stupid animal site
+#animal
